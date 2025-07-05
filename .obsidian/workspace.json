@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c0591bbd5790e02e",
+        "id": "7b7c5075943cab81",
         "type": "tabs",
         "children": [
           {
-            "id": "165d78cf814c5519",
+            "id": "c2463d99ab3d616d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Oracle Certifications/Data Science/1 Data Science Introduction/1 Data Science Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 Data Science Introduction"
+            }
+          },
+          {
+            "id": "e3d08613d2d40596",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/calendar/data.json",
+                "bFile": ".obsidian/plugins/calendar/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "2f03df05028c5514",
@@ -84,6 +104,26 @@
         "id": "9af2e331f6f35a4a",
         "type": "tabs",
         "children": [
+          {
+            "id": "67de6ef68e5d093e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "c89ec1408d9435ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
           {
             "id": "cddc8459523ebe6a",
             "type": "leaf",
@@ -144,19 +184,8 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "67de6ef68e5d093e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,8 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67de6ef68e5d093e",
+  "active": "e3d08613d2d40596",
   "lastOpenFiles": [
+    "Oracle Certifications/Data Science/1 Data Science Introduction/1.1 Data Science Introduction.md",
+    "Oracle Certifications/Data Science/1 Data Science Introduction/1 Data Science Introduction.md",
+    "Oracle Certifications/Oracle Certifications.md",
+    "Oracle Certifications/Data Science/Data Science.md",
     "Oracle Certifications/AI Foundations/AI Foundations.md",
     "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5 OCI AI Portfolio.md",
     "Oracle Certifications/AI Foundations/6 OCI Generative AI Services/6 OCI Generative AI Services.md",
@@ -197,10 +230,6 @@
     "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.5 GPUs and Superclusters in OCI.md",
     "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.4 AI Infrastructure.md",
     "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.3 ML Services Overview.md",
-    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.2 AI Services Overview.md",
-    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.1 Module Intro.md",
-    "Oracle Certifications/Oracle Certifications.md",
-    "Oracle Certifications/Data Science/Data Science.md",
     "Oracle Certifications/AI Foundations/3 Deep Learnign Foundations/Untitled",
     "Oracle Certifications/AI Foundations/7 OCI AI Services",
     "Oracle Certifications/AI Foundations/6 OCI Generative AI Services",

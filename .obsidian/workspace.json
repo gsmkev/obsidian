@@ -22,17 +22,13 @@
             }
           },
           {
-            "id": "e3d08613d2d40596",
+            "id": "2549e55f8065890a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/calendar/manifest.json",
-                "bFile": ".obsidian/plugins/calendar/manifest.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: manifest.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -201,10 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67de6ef68e5d093e",
+  "active": "2549e55f8065890a",
   "lastOpenFiles": [
-    "Oracle Certifications/Data Science/1 Data Science Introduction/1.1 Data Science Introduction.md",
+    "Oracle Certifications/Data Science/1 Data Science Introduction/1.2 ADS SDK Overview.md",
     "Oracle Certifications/Data Science/1 Data Science Introduction/1 Data Science Introduction.md",
+    "Oracle Certifications/Data Science/1 Data Science Introduction/1.1 Data Science Introduction.md",
     "Oracle Certifications/Oracle Certifications.md",
     "Oracle Certifications/Data Science/Data Science.md",
     "Oracle Certifications/AI Foundations/AI Foundations.md",
@@ -228,7 +225,6 @@
     "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.6 Responsible AI.md",
     "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.5 GPUs and Superclusters in OCI.md",
     "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.4 AI Infrastructure.md",
-    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.3 ML Services Overview.md",
     "Oracle Certifications/AI Foundations/3 Deep Learnign Foundations/Untitled",
     "Oracle Certifications/AI Foundations/7 OCI AI Services",
     "Oracle Certifications/AI Foundations/6 OCI Generative AI Services",

@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiGraduationCap",
+      "LiBrain",
+      "LiAreaChart",
+      "LiAlignEndHorizontal",
+      "1️⃣"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,8 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Oracle Certifications/Data Science": "LiAreaChart",
+  "Oracle Certifications/AI Foundations": "LiBrain",
+  "Oracle Certifications.md": "LiGraduationCap"
 }

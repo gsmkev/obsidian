@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "535003a42aeeb05a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0591bbd5790e02e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "165d78cf814c5519",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fb4a628a70bc9d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "59f2b05530fe6bb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8369d315df1144f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22c06f1802729075",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "705fb26e50cef25a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "2f03df05028c5514",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af2e331f6f35a4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cddc8459523ebe6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6687786a5ce538b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oracle Certifications/Data Science/1 Data Science Introduction/Data Science Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Data Science Introduction"
+            }
+          },
+          {
+            "id": "9a56c0dfa737da95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8ab7bd6efae3f81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "67de6ef68e5d093e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "67de6ef68e5d093e",
+  "lastOpenFiles": [
+    "Oracle Certifications/AI Foundations/AI Foundations.md",
+    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5 OCI AI Portfolio.md",
+    "Oracle Certifications/AI Foundations/6 OCI Generative AI Services/6 OCI Generative AI Services.md",
+    "Oracle Certifications/AI Foundations/6 OCI Generative AI Services/6.1 Module Intro.md",
+    "Oracle Certifications/AI Foundations/7 OCI AI Services/7 OCI AI Services.md",
+    "Oracle Certifications/AI Foundations/7 OCI AI Services/7.1 Language Intro.md",
+    "Oracle Certifications/AI Foundations/7 OCI AI Services/7.2 Demo Language.md",
+    "Oracle Certifications/AI Foundations/7 OCI AI Services/7.8 Demo Document Understanding.md",
+    "Oracle Certifications/AI Foundations/7 OCI AI Services/7.7 Document Understanding.md",
+    "Oracle Certifications/AI Foundations/7 OCI AI Services/7.6 Demo Vision.md",
+    "Oracle Certifications/AI Foundations/7 OCI AI Services/7.5 Vision Intro.md",
+    "Oracle Certifications/AI Foundations/7 OCI AI Services/7.4 Demo Speech.md",
+    "Oracle Certifications/AI Foundations/7 OCI AI Services/7.3 Speech Intro.md",
+    "Oracle Certifications/AI Foundations/6 OCI Generative AI Services/6.5 Select AI.md",
+    "Oracle Certifications/AI Foundations/6 OCI Generative AI Services/6.4 Vector Search.md",
+    "Oracle Certifications/AI Foundations/6 OCI Generative AI Services/6.3 Demo OCI Generative AI.md",
+    "Oracle Certifications/AI Foundations/6 OCI Generative AI Services/6.2 OCI Generative AI.md",
+    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.7 Demo Data Science.md",
+    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.6 Responsible AI.md",
+    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.5 GPUs and Superclusters in OCI.md",
+    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.4 AI Infrastructure.md",
+    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.3 ML Services Overview.md",
+    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.2 AI Services Overview.md",
+    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.1 Module Intro.md",
+    "Oracle Certifications/Oracle Certifications.md",
+    "Oracle Certifications/Data Science/Data Science.md",
+    "Oracle Certifications/AI Foundations/3 Deep Learnign Foundations/Untitled",
+    "Oracle Certifications/AI Foundations/7 OCI AI Services",
+    "Oracle Certifications/AI Foundations/6 OCI Generative AI Services",
+    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio",
+    "Oracle Certifications/AI Foundations/4 Generative AI and LLM Foundations",
+    "Oracle Certifications/AI Foundations/3 Deep Learnign Foundations",
+    "Oracle Certifications/AI Foundations/2 Machine Learning Foundations",
+    "Oracle Certifications/AI Foundations/1 AI Foundations",
+    "Oracle Certifications/AI Foundations",
+    "Oracle Certifications/Data Science/5 Related OCI Services"
+  ]
+}

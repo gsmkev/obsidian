@@ -1,0 +1,7 @@
+[[1 AI Foundations]]
+[[2 Machine Learning Foundations]]
+[[3 Deep Learnign Foundations]]
+[[4 Generative AI and LLM Foundations]]
+[[5 OCI AI Portfolio]]
+[[6 OCI Generative AI Services]]
+[[7 OCI AI Services]]

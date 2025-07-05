@@ -1,0 +1,6 @@
+# [[1.1 Data Science Introduction]]
+# [[1.2 ADS SDK Overview]]
+# [[1.3 Tenancy Configuration Basics]]
+# [[1.4 Configure a Tenancy with OCI Resource Manager]]
+# [[1.5 Networking for Data Science]]
+# [[1.6 Authenticate to OCI APIs]]

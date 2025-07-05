@@ -1,0 +1,5 @@
+[[3.1 Module Intro]]
+[[3.2 Introduction to Deep Learning]]
+[[3.3 Deep Learning Models Sequence Models]]
+[[3.4 Deep Learning Models CNN]]
+[[3.5 Demo Classification with Multilayer Perceptron]]

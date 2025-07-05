@@ -1,0 +1,8 @@
+[[7.1 Language Intro]]
+[[7.2 Demo Language]]
+[[7.3 Speech Intro]]
+[[7.4 Demo Speech]]
+[[7.5 Vision Intro]]
+[[7.6 Demo Vision]]
+[[7.7 Document Understanding]]
+[[7.8 Demo Document Understanding]]

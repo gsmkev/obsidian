@@ -36,59 +36,17 @@
             }
           },
           {
-            "id": "b50a52aa3a3789f5",
+            "id": "e48d12e7424b2de4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Oracle Certifications/Data Science/1 Data Science Introduction/1.6 Authenticate to OCI APIs.md",
-                "mode": "preview",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1.6 Authenticate to OCI APIs"
-            }
-          },
-          {
-            "id": "72043598b6ae72a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oracle Certifications/Data Science/1 Data Science Introduction/1.5 Networking for Data Science.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.5 Networking for Data Science"
-            }
-          },
-          {
-            "id": "70e938d601643855",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oracle Certifications/Data Science/1 Data Science Introduction/1.4 Configure a Tenancy with OCI Resource Manager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.4 Configure a Tenancy with OCI Resource Manager"
-            }
-          },
-          {
-            "id": "4ed1271bc100ded4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oracle Certifications/Data Science/1 Data Science Introduction/1.3 Tenancy Configuration Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.3 Tenancy Configuration Basics"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -257,14 +215,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b50a52aa3a3789f5",
+  "active": "e48d12e7424b2de4",
   "lastOpenFiles": [
+    "Oracle Certifications/Data Science/1 Data Science Introduction/1.1 Data Science Introduction.md",
     "Oracle Certifications/Data Science/1 Data Science Introduction/1 Data Science Introduction.md",
-    "Oracle Certifications/Data Science/1 Data Science Introduction/1.5 Networking for Data Science.md",
     "Oracle Certifications/Data Science/1 Data Science Introduction/1.4 Configure a Tenancy with OCI Resource Manager.md",
+    "Oracle Certifications/Data Science/1 Data Science Introduction/1.6 Authenticate to OCI APIs.md",
+    "Oracle Certifications/Data Science/1 Data Science Introduction/1.5 Networking for Data Science.md",
     "Oracle Certifications/Data Science/Data Science.md",
     "Oracle Certifications/Data Science/1 Data Science Introduction/1.3 Tenancy Configuration Basics.md",
-    "Oracle Certifications/Data Science/1 Data Science Introduction/1.1 Data Science Introduction.md",
     "Oracle Certifications/Data Science/1 Data Science Introduction/1.2 ADS SDK Overview.md",
     "Oracle Certifications.md",
     "Oracle Certifications/AI Foundations/AI Foundations.md",
@@ -285,7 +244,6 @@
     "Oracle Certifications/AI Foundations/6 OCI Generative AI Services/6.4 Vector Search.md",
     "Oracle Certifications/AI Foundations/6 OCI Generative AI Services/6.3 Demo OCI Generative AI.md",
     "Oracle Certifications/AI Foundations/6 OCI Generative AI Services/6.2 OCI Generative AI.md",
-    "Oracle Certifications/AI Foundations/5 OCI AI Portfolio/5.7 Demo Data Science.md",
     "Oracle Certifications/AI Foundations/3 Deep Learnign Foundations/Untitled",
     "Oracle Certifications/AI Foundations/7 OCI AI Services",
     "Oracle Certifications/AI Foundations/6 OCI Generative AI Services",
